@@ -1,0 +1,35 @@
+tr[pour='vrai']:hover {
+    background-color: rgb(147, 136, 207);
+    border: 1px solid rgb(87, 11, 110);
+    color: white;
+}
+
+body{
+    
+    background-image: linear-gradient(rgb(197, 197, 241),rgb(252, 189, 189),rgb(233, 231, 231));
+}
+
+#enregistrement{
+    color: red;
+}
+
+#bouton{
+    margin-left: 170px;
+    height: 7vh;
+    width: 15vh;
+}
+
+#color{
+    background-color: rgb(249, 250, 199);
+    box-shadow: 10px;
+    opacity: 1;
+}
+
+#btn_addM{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+#btn_save{
+  box-shadow: rgb(147, 136, 207);
+}
